@@ -14,7 +14,9 @@ returns 31
 
 ```month_rain_getter()``` and ```week_rain_getter()``` return the sum of the rainfall for the month and week, respectively. Remove comments for monthy mean and weekly mean values  
 
-```month_getter()``` and ```week_getter()``` are used to divide an array into months and weeks. Note the ```leap = False``` flag  
+```month_getter()``` and ```week_getter()``` are used to divide an array into months and weeks.  
+
+Note the ```leap = False``` flag for month functions   
 
 ```seasonal_getter()``` returns thearray divided into seasons (JFM, AM, JJA, SOND)  
 
