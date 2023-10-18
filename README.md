@@ -18,6 +18,6 @@ returns 31
 
 Note the ```leap = False``` flag for month functions   
 
-```seasonal_getter()``` returns thearray divided into seasons (JFM, AM, JJA, SOND)  
+```seasonal_getter()``` returns the array divided into seasons (JFM, AM, JJA, SOND)  
 
 ```seasonal_sum()``` returns the sum of the season
