@@ -1,5 +1,5 @@
 # Day-classify
-It classifies data into days, weeks, months and seasons
+It classifies an array or data into days, weeks, months and seasons
 
 ```
 day_range()
